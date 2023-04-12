@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Francesco601
-- 👀 I’m interested in data structure and algorithms, operating systenms, Python, C, Bash scriptting.
+- 👀 I’m interested in data structures and algorithms, operating systenms, Python, C, Bash scriptting.
 - 🌱 I’m currently learning  Python,
 - 💞️ I’m looking to collaborate on  anything interesting.
 - ...How to reach me ...francosquared8@gmail.com
