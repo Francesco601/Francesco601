@@ -1,11 +1,11 @@
-# 👋 Hi, I’m @Francesco601
+# 👋 Hello, I’m @Francesco601
 - 
- ## 👀 I’m interested in data structures and algorithms, operating systems, Python, C, LISP, Bash scriptting, analysis of algorithms and compulational complexity theory.
+ ## I’m interested in data structures and algorithms, operating systems, Python, C, LISP, Bash scriptting, analysis of algorithms and computation theory.
 
  
-## 🌱 I’m currently learning  Python and relearning some of the stuff I learned in school. 
+##  I’m currently learning  Python and relearning some of the stuff I learned in school. 
  
-## 💞️ I’m looking to collaborate on  anything interesting.
+##  I’m looking to collaborate on  anything interesting.
 ## ...You can contact me at ...francosquared8@gmail.com
 
 <!---
