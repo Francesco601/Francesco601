@@ -8,7 +8,7 @@
 ##  I’m looking to collaborate on  anything interesting.
 ## ...You can contact me at ...francosquared8@gmail.com
 
-<b> What's this markdown nonsense anyway. It was really necessary to make HTML even simpler? </b> 
+<b> What's this markdown nonsense anyway? It was really necessary to make HTML even simpler? </b> 
 
 
 <!---
