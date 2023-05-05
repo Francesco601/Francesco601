@@ -1,6 +1,6 @@
 # 👋 Hello, I’m @Francesco601
 
- ## I’m interested in data structures and algorithms, operating systems, Python, C, LISP, Bash scriptting, analysis of algorithms and computation theory.
+ ## I’m interested in data structures and algorithms, operating systems, Python, C, LISP, analysis of algorithms and computation theory.
 
  
   ## I’m currently learning  Python and relearning some of the stuff I learned in school. 
