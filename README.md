@@ -7,7 +7,7 @@
  
   ## I’m looking to collaborate on  anything interesting.
   
-  # ...You can contact me at ...francosquared8@gmail.com
+  ## ...You can contact me at ...francosquared8@gmail.com
 
 
 
