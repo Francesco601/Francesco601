@@ -4,7 +4,7 @@
 
    ## I’m currently learning  Python and relearning some of the stuff I learned in school. 
  
-  ## I would be interested mostly in collaborating on open-source projects or things that involve C programming or bssic Python stuff.  
+  ## I would be interested mostly in collaborating on open-source projects or things that involve C programming or basic Python stuff.  
   
   ## You can contact me at  <francosquared8@gmail.com>
 
