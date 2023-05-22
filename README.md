@@ -3,10 +3,10 @@
  ## I’m interested in data structures and algorithms, operating systems, Python, C, LISP, analysis of algorithms and computation theory.
 ---
    ## I’m currently learning  Python and relearning some of the stuff I learned in school. 
- 
-  ## I’m looking to collaborate on  anything interesting.
-  
-  ## ...You can contact me at  <francosquared8@gmail.com>
+ ---
+  ## I would be interested mostly in collaborating on open-source projects or things that involve C programming.  
+  ---
+  ## You can contact me at  <francosquared8@gmail.com>
 
 
 
