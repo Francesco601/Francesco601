@@ -35,8 +35,3 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I am just an old 
 
 
 
-
----
-Francesco601/Francesco601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
