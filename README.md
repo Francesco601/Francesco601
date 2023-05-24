@@ -21,7 +21,6 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I am just an old 
 ---
 [![](https://visitcount.itsvg.in/api?id=francesco601&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
