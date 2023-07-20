@@ -5,10 +5,9 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 - <a href="https://medium.com/@francescofranco_39234/why-study-algorithms-a9e5e9bee8ac"> Why Study Algorithms? </a>
 - <a href="https://medium.com/@francescofranco_39234/dining-philosophers-problem-36d0030a4459"> The Dining Philosophers' Problem </a>
 - <a href="https://medium.com/@francescofranco_39234/on-functional-programming-e48c0bd1dbc7"> On Functional Programming </a>
-- <a href="https://medium.com/@francescofranco_39234/lottery-scheduling-algorithms-54259864a900"> Lottery Scheduling Algorithm </a>
+- <a href="https://medium.com/@francescofranco_39234/logistic-regression-algorithm-6451c7928375"> Logistic Regression: An Introduction to Binary Classification </a>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francoquared67@gmail.com) 
 
 # 💻 Tech Stack:
