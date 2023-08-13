@@ -2,7 +2,7 @@
 I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one year toward a Masters with an emphasis on `operating systems`. I hope to  keep learning until my last dying breath and sharing what I learn with others.<br><br>My main interests are `algorithms` and `data structures`, `operating systems`, `C` programming<br>in general, `LISP` and `Python`.<br><br>I am currently learning `Machine Learning`  with Python and relearning many of the things I learned in school after<br>years of sickness and disability.  You can email me at: <francosquared8@gmail.com>
 
 ## Recent blogs
-- <a href="https://medium.com/@francescofranco_39234/disk-scheduling-in-operating-systems-ce6e68026858"> Disk Scheduling in Operating Systems </a>
+- <a href="https://medium.com/@francescofranco_39234/linear-regression-algorithm-696ea1e6544b"> Linear Regression Algorithm </a>
 - <a href="https://medium.com/@francescofranco_39234/logistic-regression-algorithm-6451c7928375"> Logistic Regression Algorithm: An Introduction to Binary Classification </a>
 - <a href="https://medium.com/@francescofranco_39234/why-study-algorithms-a9e5e9bee8ac"> Why Study Algorithms? </a>
 - <a href="https://medium.com/@francescofranco_39234/on-functional-programming-e48c0bd1dbc7"> On Functional Programming </a>
