@@ -4,7 +4,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 ![Asus Laptop](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
 <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 # Recent blogs:
 - <a href="https://medium.com/@francescofranco_39234/perceptron-learning-algorithm-1e4eaef887"> Perceptron Learning Algorithm </a>
