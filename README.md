@@ -1,7 +1,10 @@
 # 💫 About Me:
 I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one year toward a Masters with an emphasis on `operating systems`. I hope to  keep learning until my last dying breath and sharing what I learn with others.<br><br>My main interests are `algorithms` and `data structures`, `operating systems`, `C` programming<br>in general, `LISP` and `Python`.<br><br>I am currently learning `Machine Learning`  with Python and relearning many of the things I learned in school after<br>years of sickness and disability.  You can email me at: <francosquared8@gmail.com>
+# Current Setup
 
-## Recent blogs
+
+
+# Recent blogs
 - <a href="https://medium.com/@francescofranco_39234/perceptron-learning-algorithm-1e4eaef887"> Perceptron Learning Algorithm </a>
 - <a href="https://medium.com/@francescofranco_39234/support-vector-machines-ff8aceee2702"> Support Vector Machines </a>
 - <a href="https://medium.com/@francescofranco_39234/k-means-clustering-algorithm-57d3cd685f09"> K-Means Clustering Algorithm </a>
