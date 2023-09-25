@@ -10,7 +10,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 - <a href="https://medium.com/@francescofranco_39234/introduction-to-neural-networks-262cc5658ae4"> Intro to Neural Networks </a>
 - <a href="https://medium.com/@francescofranco_39234/perceptron-learning-algorithm-1e4eaef887"> Perceptron Learning Algorithm </a>
 - <a href="https://medium.com/@francescofranco_39234/ensemble-learning-methods-998114a029d6"> Ensemble Learning Methods </a>
-- <a href="https://medium.com/@francescofranco_39234/k-means-clustering-algorithm-57d3cd685f09"> K-Means Clustering Algorithm </a>
+- <a href="<https://medium.com/@francescofranco_39234/support-vector-machines-ff8aceee2702"> Support Vector Machines </a>
 
 
 # 🌐 Socials:
