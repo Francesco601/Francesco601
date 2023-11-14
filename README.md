@@ -8,7 +8,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 
 # Recent blogs:
 - <a href="https://medium.com/@francescofranco_39234/introduction-to-neural-networks-262cc5658ae4"> Intro to Neural Networks </a>
-- <a href="https://medium.com/@francescofranco_39234/what-is-rmsprop-0f54effc47e4"> Whhat is RMSprop? : Adaptive Optimization </a>
+- <a href="https://medium.com/@francescofranco_39234/a-u-net-for-image-segmentation-with-tensorflow-and-keras-f0666c05b04d"> A U-Net for Image Segmentation with Tensorflow and Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/generative-adversarial-networks-with-step-by-step-python-code-f88729356c74"> Generative Adversarial Networks (GANS) with TensorFlow </a>
 - <a href="https://medium.com/@francescofranco_39234/creating-dcgan-with-tensorflow-and-keras-a-deep-dive-65f4b084c36e"> Creating DCGAN with TensorFlow and Keras </a>
 
