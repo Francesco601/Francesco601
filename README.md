@@ -7,7 +7,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 # Recent blogs:
-- <a href="https://medium.com/@francescofranco_39234/creating-a-dcgan-with-pytorch-98af026d3ba0"> Create a DCGAN with PyTorch </a>
+- <a href="https://medium.com/@francescofranco_39234/create-dcgan-with-tensorflow-and-keras-774f4f1c220c"> Create a DCGAN with Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/introduction-to-neural-networks-262cc5658ae4"> Intro to Neural Networks </a>
 - <a href="https://medium.com/@francescofranco_39234/generative-adversarial-networks-with-step-by-step-python-code-f88729356c74"> Generative Adversarial Networks (GANS) with TensorFlow </a>
 
