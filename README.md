@@ -9,7 +9,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 # Recent blogs:
 - <a href="https://medium.com/@francescofranco_39234/create-dcgan-with-tensorflow-and-keras-774f4f1c220c"> Create a DCGAN with Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/introduction-to-neural-networks-262cc5658ae4"> Intro to Neural Networks </a>
-- <a href="https://medium.com/@francescofranco_39234/generative-adversarial-networks-with-step-by-step-python-code-f88729356c74"> Generative Adversarial Networks (GANS) with TensorFlow </a>
+- <a href="https://medium.com/@francescofranco_39234/dbscan-clustering-with-scikit-learn-c273e2ff1a5c"> DBSCAN clustering with Scikit-learn </a>
 
 
 # 🌐 Socials:
