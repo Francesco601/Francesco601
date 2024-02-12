@@ -8,7 +8,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 
 # Recent blogs:
 - <a href="https://medium.com/ai-mind-labs/binary-crossentropy-with-keras-61a227ed5bcd"> Binary Crossentropy with Keras </a>
-- <a href="https://medium.com/@francescofranco_39234/creating-a-simple-gan-with-pytorch-a8dadfb72251"> Creating a simple GAN with PyTorch </a>
+- <a href="https://medium.com/@francescofranco_39234/categorical-crossentropy-with-keras-2ac52d5351b0"> Categorical Crossentropy with Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/dbscan-clustering-with-scikit-learn-c273e2ff1a5c"> DBSCAN clustering with Scikit-learn </a>
 
 
