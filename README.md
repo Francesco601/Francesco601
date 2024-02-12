@@ -9,7 +9,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 # Recent blogs:
 - <a href="https://medium.com/ai-mind-labs/binary-crossentropy-with-keras-61a227ed5bcd"> Binary Crossentropy with Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/categorical-crossentropy-with-keras-2ac52d5351b0"> Categorical Crossentropy with Keras </a>
-- <a href="https://medium.com/@francescofranco_39234/dbscan-clustering-with-scikit-learn-c273e2ff1a5c"> DBSCAN clustering with Scikit-learn </a>
+- <a href="https://medium.com/@francescofranco_39234/simple-conv3d-example-with-keras-1bb44c93dab2"> Simple Conv3D example with Keras </a>
 
 
 # 🌐 Socials:
