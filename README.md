@@ -7,7 +7,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 # Recent blogs:
-- <a href="https://medium.com/@francescofranco_39234/build-a-resnet-from-scratch-with-tensorflow-and-keras-1b47ba6dd0f5"> Build s ResNet from Scratch </a>
+- <a href="https://medium.com/@francescofranco_39234/build-a-resnet-from-scratch-with-tensorflow-and-keras-1b47ba6dd0f5"> Build a ResNet from Scratch </a>
 - <a href="https://medium.com/@francescofranco_39234/categorical-crossentropy-with-keras-2ac52d5351b0"> Categorical Crossentropy with Keras </a>
 - <a href="https://medium.com/@francescofranco_39234/simple-conv3d-example-with-keras-1bb44c93dab2"> Simple Conv3D example with Keras </a>
 
