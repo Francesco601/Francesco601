@@ -6,10 +6,6 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
-# Recent blogs:
-- <a href="https://medium.com/@francescofranco_39234/object-detection-for-images-and-videos-with-tensorflow-and-opencv-c74d97eb0211"> Object Detection for images, videos with OpenCV </a>
-- <a href="https://medium.com/ai-mind-labs/object-detection-with-python-and-huggingface-transformers-f1347398b112"> Object Detection with HuggingFace Transformers </a>
-- <a href="https://medium.com/@francescofranco_39234/building-a-u-net-with-tensorflow-and-keras-ab9b2e40ffda"> Building a U-Net with TensorFlow and Keras </a>
 
 
 # 🌐 Socials:
