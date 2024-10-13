@@ -8,7 +8,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 
 # Recent Blogs/Articles:
 <a href="https://medium.com/thedeephub/convolutional-neural-networks-for-computer-vision-a913e77c60ff"> Convolutional Neural Networks for Computer Vision </a> <br>
-<a href="https://medium.com/ai-in-plain-english/building-an-lstm-model-with-tensorflow-and-keras-880ca1626917"> Budiling an LTSM with TensorFlow and Keras </a>
+<a href="https://medium.com/ai-in-plain-english/building-an-lstm-model-with-tensorflow-and-keras-880ca1626917"> Budiling an LTSM with TensorFlow and Keras </a> <br>
 <a href="https://medium.com/thedeephub/understanding-loss-and-loss-functions-c1839f110840"> Understanding Loss and Loss Functions </a>
 
 # 🌐 Socials:
