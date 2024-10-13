@@ -6,6 +6,8 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
+# Recent Blogs/Articles:
+<a href="https://medium.com/thedeephub/convolutional-neural-networks-for-computer-vision-a913e77c60ff"> Convolutional Neural Networks for Computer Vision </a>
 
 
 # 🌐 Socials:
