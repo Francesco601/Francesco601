@@ -9,7 +9,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 # Recent Blogs/Articles:
  <a href="https://medium.com/thedeephub/convolutional-neural-networks-for-computer-vision-a913e77c60ff"> Convolutional Neural Networks for Computer Vision </a> <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
-<a href="https://medium.com/thedeephub/understanding-loss-and-loss-functions-c1839f110840"> Understanding Loss and Loss Functions </a>
+<a href="https://medium.com/@francescofranco_39234/the-softmax-activation-function-work-with-keras-8f674b4481a5"> Softmax Activation Function with Keras </a>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francoquared67@gmail.com) 
