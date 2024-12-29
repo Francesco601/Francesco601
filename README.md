@@ -6,8 +6,8 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
-# Recent Blogs
-<a href="https://medium.com/@francescofranco_39234/implementing-relu-sigmoid-and-tanh-in-keras-cf87029af3db"> Implementing ReLU, Sigmoid and Tanh in Keras </a> <br>
+# Recent Blogs 
+ <a href="https://medium.com/ai-in-plain-english/performing-k-means-clustering-with-python-and-scikit-learn-f2f833841f69"> Performing K-meeans Clustering with Python and Scikit-learn </a> <br>
  <a href="https://medium.com/@francescofranco_39234/building-a-vanilla-gan-with-pytorch-ffdf26275b70"> Building a vanilla GAN with PyTorch </a> <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
 <a href="https://medium.com/@francescofranco_39234/the-softmax-activation-function-work-with-keras-8f674b4481a5"> Softmax Activation Function with Keras </a>
