@@ -8,7 +8,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 
 # Recent Blogs 
  <a href="https://medium.com/ai-in-plain-english/performing-k-means-clustering-with-python-and-scikit-learn-f2f833841f69"> Performing K-meeans Clustering with Python and Scikit-learn </a> <br>
- <a href="https://medium.com/@francescofranco_39234/building-a-vanilla-gan-with-pytorch-ffdf26275b70"> Building a vanilla GAN with PyTorch </a> <br>
+ <a href="https://medium.com/thedeephub/batch-normalization-for-training-neural-networks-328112bda3ae"> Batch Normalization witth PyTorch </a>  <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
 <a href="https://medium.com/@francescofranco_39234/the-softmax-activation-function-work-with-keras-8f674b4481a5"> Softmax Activation Function with Keras </a>
 
