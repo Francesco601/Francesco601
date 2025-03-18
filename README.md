@@ -7,9 +7,9 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 # Recent Blogs 
+<a href="https://medium.com/@francescofranco_39234/dbscan-clustering-with-python-and-scikit-learn-09a898aca86c"> DBSCAN clustering with Pythion Sckikit-learn </a> <br>
   <a href="https://medium.com/thedeephub/batch-normalization-for-training-neural-networks-328112bda3ae"> Batch Normalization witth PyTorch </a>  <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
-<a href="https://medium.com/@francescofranco_39234/dbscan-clustering-with-python-and-scikit-learn-09a898aca86c"> DBSCAN clustering with Pythion Sckikit-learn </a> <br>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francoquared67@gmail.com) 
