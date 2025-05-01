@@ -7,7 +7,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 # Recent Blogs 
-<a href="https://medium.com/h7w/implementing-a-variational-autoencoder-with-keras-e19d7140ad90">  Implementing a Variational Autoencoder with Keras </a>
+<a href="https://medium.com/h7w/implementing-a-variational-autoencoder-with-keras-e19d7140ad90">  Implementing a Variational Autoencoder with Keras </a>  <br>
   <a href="https://medium.com/thedeephub/batch-normalization-for-training-neural-networks-328112bda3ae"> Batch Normalization witth PyTorch </a>  <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
 
