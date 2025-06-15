@@ -8,7 +8,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 
 # Recent Blogs 
 <a href="https://medium.com/p/508794c62456"> Object Detection with Python and HuggingFace Transformers </a>  <br>
-<a href="https://medium.com/ai-mind-labs/k-fold-cross-validation-with-keras-191816d22c96"> K-fold Cross Validation woith  Keras </a>  <br>
+<a href="https://medium.com/ai-mind-labs/using-radial-basis-functions-for-svms-with-python-and-scikit-learn-c935aa06a56e"> Using Radial Basis Function for Support Vector Machines  </a>  <br>
 <a href="https://medium.com/@francescofranco_39234/principal-component-analysis-with-python-a-deep-dive-0c5195bff087"> Principal Component Analysis with Python (a deep dive) </a> <br>
 
 # 🌐 Socials:
