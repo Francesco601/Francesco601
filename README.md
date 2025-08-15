@@ -9,7 +9,7 @@ I finished my BS in Computer Science at  SUNY Albany in 1998.  I completed one y
 # Recent Blogs 
 <a href="https://medium.com/p/508794c62456"> Object Detection with Python and HuggingFace Transformers </a>  <br>
 <a href="https://medium.com/ai-mind-labs/create-a-chatbot-in-python-with-langchain-and-rag-b322fe0e18d7"> Create a Chatbot with LancgChain and RAG </a> <br>
-<a href="https://medium.com/@francescofranco_39234/object-detection-for-images-and-videos-with-tensorflow-and-opencv-1d2e2ab4f666"> Object Detection for Images and Videos with TensorFlow and OpebCV </a> <br>  
+<a href="https://medium.com/@francescofranco_39234/object-detection-for-images-and-videos-with-tensorflow-and-opencv-1d2e2ab4f666"> Object Detection for Images and Videos with TensorFlow and OpenCV </a> <br>  
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francoquared67@gmail.com) 
